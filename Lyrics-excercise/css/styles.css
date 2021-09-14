@@ -1,0 +1,25 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:antiquewhite;
+    margin-left: 50px;
+}
+
+h1 {
+    font-size:200px;
+    font-weight:normal;
+    color:antiquewhite;
+    text-align: center;
+
+}
+
+h2 {
+    font-size:37px;
+    text-align:right;
+    color:beige;
+}
+
+p {
+    font-size:20px;
+    text-align:center;
+    margin-bottom: 100px;
+}
