@@ -1,0 +1,66 @@
+html {
+    color: gray;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15pt;
+  }
+
+  body{
+      margin: 10%;
+  }
+
+  article {
+      margin: 6rem 0;
+  }
+
+  h1 {
+      color:black;
+      letter-spacing: -0,02em;
+      text-transform: capitalize;
+      text-indent: -1rem;
+      font-family: vista-slab, serif;
+  }
+
+  p{
+      font-size: 13pt;
+      line-height: 1.4;
+  }
+
+  sup {
+      font-size: 60%;
+  }
+
+  dfn {
+      font-weight: bold;
+      text-transform: lowercase;
+  }
+
+  small {
+      font-style: italic;
+  }
+
+  aside {
+      text-align: center;
+  }
+
+  cite {
+      text-align: right;
+      display: block;
+  }
+
+  section {
+      margin: 2.5em 0;
+  }
+
+  a {
+      text-decoration: none;
+  }
+
+  code{
+      color: steelblue
+  }
+
+
+
+
+
