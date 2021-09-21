@@ -1,0 +1,19 @@
+body {
+    background-color: navajowhite;
+}
+
+h2 {
+    margin: 20pt;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    color:saddlebrown;
+    text-align: left;
+    margin: 40pt;
+    text-indent: -1rem;
+}
+
+img {
+    border-image-width: 20 
+}
