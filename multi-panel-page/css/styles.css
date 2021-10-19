@@ -1,0 +1,113 @@
+body {
+font-family: 'Archivo Narrow',sans-serif;
+}
+
+h1 {
+margin:0 0 -4px 0;
+}
+
+h2 {
+font-size:30px;
+margin-top:-15px;
+padding:0 0 5px 0;
+}
+.Main {
+width:960px;
+margin:auto;
+}
+
+header {
+background-image: url(../Minecraft-horse.jpg);
+background-size:cover;
+text-align:center;
+}
+
+header .Main {
+padding:150px 0 150px 0;
+}
+
+header h1 {
+font-size:80px;
+}
+section .Main {
+padding:40px 0 45px 0;
+}
+
+.horse {
+width:400px;
+height:300px;
+object-fit:cover;
+float:right;
+padding:30px 0 25px 40px;
+}
+
+.Text {
+background-color:slateblue
+}
+
+.Text h1 {
+text-align:center;
+font-size:40px;
+}
+
+.steve {
+width:200px;
+height:150px;
+object-fit:cover;
+float:left;
+padding:0 15px 0 0;
+}
+
+.Photo {
+background-color: rgb(255, 161, 20);
+}
+
+.Photo h1 {
+text-align:center;
+font-size:40px;
+}
+
+h3 {
+margin:0 75px 0 0;
+padding:12px 0 0 0;
+line-height:3px;
+}
+
+.Photo li {
+width:45%;
+display:inline-block;
+padding:10px 0 0 0;
+min-inline-size:475px;
+margin-top:20px;
+}
+
+.Photo li p {
+font-size:18px;
+padding:0 50px 0 50px;
+margin-top:10px;
+}
+
+.Last {
+background-color:rgb(135, 222, 215);
+}
+
+.Last h1 {
+text-align:center;
+font-size:40px;
+padding:7px 0 0 0;
+}
+
+.Last p {
+width:75%;
+text-align:center;
+font-size: 26px;
+padding:33px 0 70px 0;
+margin:0 auto;
+line-height:140%;
+}
+
+footer {
+padding:10px 0 50px 0;
+background-color:rgb(97, 31, 5);
+font-size:17px;
+}
