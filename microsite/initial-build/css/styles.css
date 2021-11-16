@@ -1,0 +1,16 @@
+body {
+    background-image: url(images/13.png)
+}
+
+img{
+    max-width:100%;
+   }
+
+main {
+    background-color: rgb(0, 0, 0); 
+    overflow:auto;
+    color:white;
+    padding:10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:lighter;
+  }
