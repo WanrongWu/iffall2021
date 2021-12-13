@@ -1,0 +1,71 @@
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    max-width: 70%;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    background-color: #000000;
+}
+
+h1{
+    font-family: 'Indie Flower';
+    font-weight: 600;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+    padding: 0;
+    color:blanchedalmond
+}
+
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400; 
+    font-size: 35px;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    text-transform: lowercase;
+    color:blanchedalmond
+
+}
+
+h3{
+    font-family: "adobe-garamond-pro", serif;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    color:blanchedalmond
+}
+
+header {
+    margin: 20% 0 10% 0;
+    background-color: black;
+}
+
+.project {
+    margin: 10px;
+    padding: 20px;
+    float: left;
+    overflow: hidden;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+}
+
+.links {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:blanchedalmond
+}
+
+a {
+    text-decoration: none;
+    color:blanchedalmond;
+    font-size: 15px;
+}
